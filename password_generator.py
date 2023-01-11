@@ -10,4 +10,5 @@ def password_generator(password_lenght):
         )
     )
 
+
 print(password_generator(password_lenght))
